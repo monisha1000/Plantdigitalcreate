@@ -1,0 +1,56 @@
+body h1{
+    font-weight: bold;
+    color: #fafefa;
+    text-align: left;}
+    body{
+        background-image: url("https://www.crushpixel.com/big-static23/preview4/tree-growing-on-digital-plant-5803163.jpg");
+        }
+     .menu{
+        width:400px;
+        float:left;
+        height: 20px;
+     }  
+     .navbar{
+      width: 1200px;
+      height: 75px;
+      margin:auto;
+     }
+     .icon{
+      width: 200px;
+      float:left;
+      height: 70px;
+     }
+     .logo{
+      color:#f3f3ee;
+      font-size:25px;
+      
+      padding-left: 20px;
+      float:left;
+      padding-top: 10px;
+     }
+
+     ul{
+      float:right;
+      display:flex;
+      justify-content:center;
+      align-items: center;
+      
+   }  
+   ul li{
+      list-style:none; 
+      margin-left: 100px;
+      margin-top: 40px;
+      font-size: 20px;
+      color: #fcf6f6;
+      font-size: 30px;}
+  ul li a{
+      text-decoration: none;
+      color: white;
+      font-size: 30px;
+      transform-origin: right;
+      font-weight:bold;
+      transition: 0.4s ease-in-out;  
+  }
+  ul li a:hover{
+     color:rgb(249, 149, 10); 
+  }

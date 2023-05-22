@@ -1,0 +1,27 @@
+body p{
+    font-family: 'Gill Sans';
+color :white;
+width:90%;
+border:aquamarine;
+font-size: larger;
+text-align: center;
+margin:20px auto;
+padding  20px;
+
+}
+
+
+.main {
+   color:rgb(68, 37, 181);
+    position: relative;
+    width:95%;
+    height:400;
+    background-color: #474e5d;
+    border:2px solid;
+    border-radius: 20px;
+  backdrop-filter: blur(20px);
+  box-shadow:0 0 70px rgb(68, 37, 181);
+display: flex;
+justify-content: center;
+align-items: center;
+}
